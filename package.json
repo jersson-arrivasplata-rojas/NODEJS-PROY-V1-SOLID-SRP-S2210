@@ -1,0 +1,13 @@
+{
+    "name": "solid-srp",
+    "version": "1.0.0",
+    "description": "Servidor para emular peticiones que devolvera informacion fake",
+    "main": "index.js",
+    "scripts": {
+        "start": "tsc --build -w"
+    },
+    "dependencies": {
+    },
+    "devDependencies": {
+    }
+}
